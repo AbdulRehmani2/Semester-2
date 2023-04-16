@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Dell\source\repos\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Dell\source\repos\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Dell\source\repos\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Dell\source\repos\lab2\lab2\obj\Debug\lab2.pdb

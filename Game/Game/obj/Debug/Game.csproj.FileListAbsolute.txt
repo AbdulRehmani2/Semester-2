@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\EZInput.dll
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\EZInput.xml
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.csproj.CopyComplete

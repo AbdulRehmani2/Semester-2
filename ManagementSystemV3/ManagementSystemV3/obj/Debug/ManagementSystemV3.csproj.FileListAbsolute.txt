@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\bin\Debug\ManagementSystemV3.exe.config
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\bin\Debug\ManagementSystemV3.exe
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\bin\Debug\ManagementSystemV3.pdb
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\obj\Debug\ManagementSystemV3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\obj\Debug\ManagementSystemV3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\obj\Debug\ManagementSystemV3.exe
+C:\Users\Dell\source\repos\ManagementSystemV3\ManagementSystemV3\obj\Debug\ManagementSystemV3.pdb
