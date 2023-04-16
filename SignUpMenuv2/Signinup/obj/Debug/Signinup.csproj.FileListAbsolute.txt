@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Signinup\Signinup\bin\Debug\Signinup.exe.config
+C:\Users\Dell\source\repos\Signinup\Signinup\bin\Debug\Signinup.exe
+C:\Users\Dell\source\repos\Signinup\Signinup\bin\Debug\Signinup.pdb
+C:\Users\Dell\source\repos\Signinup\Signinup\obj\Debug\Signinup.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Signinup\Signinup\obj\Debug\Signinup.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Signinup\Signinup\obj\Debug\Signinup.exe
+C:\Users\Dell\source\repos\Signinup\Signinup\obj\Debug\Signinup.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\obj\Debug\SignUpMenu.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\obj\Debug\SignUpMenu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\bin\Debug\SignUpMenu.exe.config
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\bin\Debug\SignUpMenu.exe
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\bin\Debug\SignUpMenu.pdb
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\obj\Debug\SignUpMenu.exe
+C:\Users\Dell\source\repos\SignUpMenu\SignUpMenu\obj\Debug\SignUpMenu.pdb
